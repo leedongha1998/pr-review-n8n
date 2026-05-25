@@ -6,6 +6,7 @@ public class Student {
     public int age;
     public ArrayList<Integer> scores;
 
+
     public Student(String name, int age) {
         this.name = name;
         this.age = age;
