@@ -1,6 +1,3 @@
-<!-- OMC:START -->
-<!-- OMC:VERSION:4.14.1 -->
-
 # oh-my-claudecode - Intelligent Multi-Agent Orchestration
 
 You are running with oh-my-claudecode (OMC), a multi-agent orchestration layer for Claude Code.
@@ -61,5 +58,3 @@ State: `.omc/state/`, `.omc/state/sessions/{sessionId}/`, `.omc/notepad.md`, `.o
 ## Setup
 
 Say "setup omc" or run `/oh-my-claudecode:omc-setup`.
-
-<!-- OMC:END -->
